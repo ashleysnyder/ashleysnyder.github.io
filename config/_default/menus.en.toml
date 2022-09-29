@@ -1,0 +1,54 @@
+  [[main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+  [[main]]
+  name = "Projects"
+  weight = 300
+  identifier = "projects"
+  url = "/portfolio/"
+
+  [[main]]
+  name = "About"
+  weight = 400
+  identifier = "about"
+  url = "/about/"
+
+  [[main]]
+  #name = "Work"
+  #weight = 500
+  #identifier = "work"
+
+  [[main]]
+  #name = "Next Experience Center of Excellence"
+  #weight = 510
+  #identifier = "coe"
+  #url = "/coe/"
+  #parent = "coe"  
+
+  [[main]]
+  #name = "Certifications"
+  #weight = 520
+  #identifier = "certifications"
+  #url = "/certifications/"
+  #parent = "accomplishments"
+
+  [[main]]
+  name = "Contact"
+  weight = 600
+  identifier = "contact"
+  url = "/contact/"
+
+  [[footer]]
+  #name = "imprint"
+  #weight = 1
+  #identifier = "imprint"
+  #url = "/imprint/"
