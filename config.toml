@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/ashleysnyder/ashleysnyder.github.io.git'
+baseURL = 'https://github.com/ashleysnyder/ashleysnyderio'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "anatole"
