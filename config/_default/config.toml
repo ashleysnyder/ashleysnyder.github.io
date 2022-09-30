@@ -1,4 +1,4 @@
-baseURL = "https://ashleysnyder.github.io"
+baseURL = "https://github.com/ashleysnyder/ashleysnyder.github.io.git"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "ashleysnyder"
