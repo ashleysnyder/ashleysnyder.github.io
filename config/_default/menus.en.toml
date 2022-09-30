@@ -11,16 +11,16 @@
   url = "/post/"
 
   [[main]]
-  name = "Projects"
-  weight = 300
-  identifier = "projects"
-  url = "/portfolio/"
+  # name = "Projects"
+  # weight = 300
+  # identifier = "projects"
+  # url = "/portfolio/"
 
   [[main]]
-  name = "About"
-  weight = 400
-  identifier = "about"
-  url = "/about/"
+  # name = "About"
+  # weight = 400
+  # identifier = "about"
+  # url = "/about/"
 
   [[main]]
   #name = "Work"
@@ -42,10 +42,10 @@
   #parent = "accomplishments"
 
   [[main]]
-  name = "Contact"
-  weight = 600
-  identifier = "contact"
-  url = "/contact/"
+  # name = "Contact"
+  # weight = 600
+  # identifier = "contact"
+  # url = "/contact/"
 
   [[footer]]
   #name = "imprint"
