@@ -1,7 +1,8 @@
-baseURL = "https://github.com/ashleysnyder/ashleysnyderio"
+baseURL = "https://ashleysnyder.github.io"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "ashleysnyder"
+publishDir = "docs"
 
 # theme as hugo module
 #theme = "github.com/lxndrblz/anatole"

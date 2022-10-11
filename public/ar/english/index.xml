@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ashleysnyder</title>
-    <link>https://github.com/ashleysnyder/ashleysnyder.github.io.git/ar/english/</link>
+    <link>ashleysnyder.github.io/ar/english/</link>
     <description>Recent content on ashleysnyder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/ashleysnyder/ashleysnyder.github.io.git/ar/english/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="ashleysnyder.github.io/ar/english/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://github.com/ashleysnyder/ashleysnyder.github.io.git/ar/english/about/</link>
+      <link>ashleysnyder.github.io/ar/english/about/</link>
       <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/ashleysnyder/ashleysnyder.github.io.git/ar/english/about/</guid>
+      <guid>ashleysnyder.github.io/ar/english/about/</guid>
       
         <description>Just a litte bit about me</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Awards</title>
-      <link>https://github.com/ashleysnyder/ashleysnyder.github.io.git/ar/english/awards/</link>
+      <link>ashleysnyder.github.io/ar/english/awards/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/ashleysnyder/ashleysnyder.github.io.git/ar/english/awards/</guid>
+      <guid>ashleysnyder.github.io/ar/english/awards/</guid>
       
         <description>Hugo Awards, an annual literary award for the best science fiction or fantasy works</description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>Certifications</title>
-      <link>https://github.com/ashleysnyder/ashleysnyder.github.io.git/ar/english/certifications/</link>
+      <link>ashleysnyder.github.io/ar/english/certifications/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/ashleysnyder/ashleysnyder.github.io.git/ar/english/certifications/</guid>
+      <guid>ashleysnyder.github.io/ar/english/certifications/</guid>
       
         <description>Hugo Certifications</description>
       
@@ -42,10 +42,10 @@
     
     <item>
       <title>Series Part 2</title>
-      <link>https://github.com/ashleysnyder/ashleysnyder.github.io.git/ar/english/draft-content/series-part-2/</link>
+      <link>ashleysnyder.github.io/ar/english/draft-content/series-part-2/</link>
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/ashleysnyder/ashleysnyder.github.io.git/ar/english/draft-content/series-part-2/</guid>
+      <guid>ashleysnyder.github.io/ar/english/draft-content/series-part-2/</guid>
       
         <description>A brief guide to how to setup series part 2</description>
       
@@ -53,10 +53,10 @@
     
     <item>
       <title>Series Part 1</title>
-      <link>https://github.com/ashleysnyder/ashleysnyder.github.io.git/ar/english/draft-content/series-part-1/</link>
+      <link>ashleysnyder.github.io/ar/english/draft-content/series-part-1/</link>
       <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/ashleysnyder/ashleysnyder.github.io.git/ar/english/draft-content/series-part-1/</guid>
+      <guid>ashleysnyder.github.io/ar/english/draft-content/series-part-1/</guid>
       
         <description>A brief guide to how to setup series part 1</description>
       
@@ -64,10 +64,10 @@
     
     <item>
       <title>Redirect</title>
-      <link>https://github.com/ashleysnyder/ashleysnyder.github.io.git/ar/english/draft-content/redirect/</link>
+      <link>ashleysnyder.github.io/ar/english/draft-content/redirect/</link>
       <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/ashleysnyder/ashleysnyder.github.io.git/ar/english/draft-content/redirect/</guid>
+      <guid>ashleysnyder.github.io/ar/english/draft-content/redirect/</guid>
       
         <description>Usage of redirectUrl</description>
       
@@ -75,10 +75,10 @@
     
     <item>
       <title></title>
-      <link>https://github.com/ashleysnyder/ashleysnyder.github.io.git/ar/english/archives/</link>
+      <link>ashleysnyder.github.io/ar/english/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/ashleysnyder/ashleysnyder.github.io.git/ar/english/archives/</guid>
+      <guid>ashleysnyder.github.io/ar/english/archives/</guid>
       
         <description></description>
       
@@ -86,10 +86,10 @@
     
     <item>
       <title>Contact</title>
-      <link>https://github.com/ashleysnyder/ashleysnyder.github.io.git/ar/english/contact/</link>
+      <link>ashleysnyder.github.io/ar/english/contact/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/ashleysnyder/ashleysnyder.github.io.git/ar/english/contact/</guid>
+      <guid>ashleysnyder.github.io/ar/english/contact/</guid>
       
         <description>Contact Page</description>
       
